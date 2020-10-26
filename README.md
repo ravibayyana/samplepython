@@ -1,2 +1,0 @@
-# samplepython
-python tutorial
